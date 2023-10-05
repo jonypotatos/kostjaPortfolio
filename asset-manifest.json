@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jonypotatos/kostjaPortfolio/static/css/main.91ea2ae2.css",
-    "main.js": "/jonypotatos/kostjaPortfolio/static/js/main.3118daca.js",
-    "static/js/415.f544122f.chunk.js": "/jonypotatos/kostjaPortfolio/static/js/415.f544122f.chunk.js",
-    "static/js/787.235e7883.chunk.js": "/jonypotatos/kostjaPortfolio/static/js/787.235e7883.chunk.js",
-    "static/media/home-main.svg": "/jonypotatos/kostjaPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/jonypotatos/kostjaPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/jonypotatos/kostjaPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/jonypotatos/kostjaPortfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/jonypotatos/kostjaPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/jonypotatos/kostjaPortfolio/index.html",
-    "main.91ea2ae2.css.map": "/jonypotatos/kostjaPortfolio/static/css/main.91ea2ae2.css.map",
-    "main.3118daca.js.map": "/jonypotatos/kostjaPortfolio/static/js/main.3118daca.js.map",
-    "415.f544122f.chunk.js.map": "/jonypotatos/kostjaPortfolio/static/js/415.f544122f.chunk.js.map",
-    "787.235e7883.chunk.js.map": "/jonypotatos/kostjaPortfolio/static/js/787.235e7883.chunk.js.map"
+    "main.css": "/kostjaPortfolio/static/css/main.a61c36d3.css",
+    "main.js": "/kostjaPortfolio/static/js/main.7ba6b599.js",
+    "static/js/415.f544122f.chunk.js": "/kostjaPortfolio/static/js/415.f544122f.chunk.js",
+    "static/js/787.235e7883.chunk.js": "/kostjaPortfolio/static/js/787.235e7883.chunk.js",
+    "static/media/home-main.svg": "/kostjaPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/kostjaPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/kostjaPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/kostjaPortfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/kostjaPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/kostjaPortfolio/index.html",
+    "main.a61c36d3.css.map": "/kostjaPortfolio/static/css/main.a61c36d3.css.map",
+    "main.7ba6b599.js.map": "/kostjaPortfolio/static/js/main.7ba6b599.js.map",
+    "415.f544122f.chunk.js.map": "/kostjaPortfolio/static/js/415.f544122f.chunk.js.map",
+    "787.235e7883.chunk.js.map": "/kostjaPortfolio/static/js/787.235e7883.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91ea2ae2.css",
-    "static/js/main.3118daca.js"
+    "static/css/main.a61c36d3.css",
+    "static/js/main.7ba6b599.js"
   ]
 }
